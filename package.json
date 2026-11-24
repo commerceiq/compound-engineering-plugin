@@ -40,7 +40,7 @@
     "site:check": "cd site && LC_ALL=C.UTF-8 bundle exec htmlproofer _site --disable-external --allow-missing-href --no-enforce-https --swap-urls '^/compound-engineering/:/'"
   },
   "dependencies": {
-    "citty": "^0.1.6",
+    "citty": "^0.2.2",
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
